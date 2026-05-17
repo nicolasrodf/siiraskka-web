@@ -1,0 +1,371 @@
+# Proyecto: Rediseño y Migración Web desde Jimdo
+
+## Sitio actual
+
+https://www.siiraskka.com/
+
+Actualmente la web está construida en Jimdo y utiliza el dominio principal ya posicionado en Google.
+
+El objetivo NO es solo mejorar el diseño visual, sino realizar un rediseño profesional completo, mantener el posicionamiento SEO y migrar correctamente hacia una solución más escalable.
+
+---
+
+# Objetivo principal
+
+Rediseñar completamente la web desde cero utilizando una arquitectura moderna y profesional, manteniendo el dominio actual y evitando pérdida de posicionamiento en Google.
+
+Queremos una web más premium, más rápida, mejor organizada, con mejor experiencia de usuario y mejor preparada para ventas.
+
+---
+
+# Objetivos específicos
+
+- Mejorar branding visual
+- Mejorar UX/UI
+- Mejorar velocidad de carga
+- Mejorar SEO técnico
+- Mantener posicionamiento en Google
+- Facilitar ventas por WhatsApp
+- Facilitar venta de cursos online
+- Mejorar presentación de productos artesanales
+- Escalabilidad futura
+- Mejor experiencia mobile
+
+---
+
+# Tecnología deseada
+
+Preferencia principal:
+
+- Vue.js
+- Vite
+- Deploy en Vercel
+
+Alternativa aceptable:
+
+- WordPress (solo si realmente aporta una ventaja clara)
+
+No queremos seguir dependiendo de Jimdo como plataforma principal.
+
+---
+
+# Nueva estructura web deseada
+
+## Menú principal
+
+- Inicio
+- Productos
+- Cursos Online
+- Talleres
+- Sobre la Marca
+- Contacto
+
+---
+
+# Home (Inicio)
+
+Debe sentirse premium, artesanal y profesional.
+
+## Debe incluir:
+
+### Hero principal
+
+- Imagen potente de portada
+- Mensaje claro de marca
+- CTA principal
+
+Ejemplo:
+
+"Encuadernación artesanal + cursos + productos únicos"
+
+Botones:
+
+- Ver productos
+- Ver cursos
+- Pedido personalizado
+
+---
+
+### Sección productos destacados
+
+- Cuadernos
+- Encuadernación artesanal
+- Productos personalizados
+
+---
+
+### Sección cursos destacados
+
+- Cursos online
+- Talleres presenciales
+- Cursos especializados
+
+Ejemplo:
+- Long Stitch
+- Costura Doble X
+- Zig-Zag
+
+---
+
+### Sobre la marca
+
+- Historia
+- Proceso artesanal
+- Diferenciación
+
+---
+
+### Testimonios
+
+- Clientes
+- Alumnos
+- Experiencias reales
+
+---
+
+### Fotos reales
+
+- Talleres
+- Productos
+- Proceso de trabajo
+
+---
+
+### Preguntas frecuentes
+
+- Cursos
+- Pedidos personalizados
+- Formas de pago
+- Envíos
+
+---
+
+### WhatsApp fuerte
+
+Botón flotante + CTA claros
+
+Ejemplo:
+
+"Quiero mi pedido personalizado"
+
+---
+
+# Branding visual
+
+Necesitamos una mejora importante en:
+
+- tipografías
+- jerarquía visual
+- espaciado
+- colores
+- fotografías
+- sensación premium
+
+Debe verse como una marca artesanal premium, no como una web técnica o genérica.
+
+Menos "plantilla de Jimdo"
+Más "marca profesional"
+
+---
+
+# SEO (muy importante)
+
+NO queremos perder posicionamiento en Google.
+
+## Requisitos SEO
+
+### Mantener URLs importantes cuando sea posible
+
+Ejemplo:
+
+- /nuestros-productos
+- /cursos-online
+- /contacto
+
+---
+
+### Si cambian URLs
+
+Configurar redirects 301 obligatoriamente
+
+Ejemplo:
+
+/cursos → /cursos-online
+
+Esto es crítico.
+
+---
+
+### SEO técnico
+
+Debe incluir:
+
+- sitemap.xml
+- robots.txt
+- meta titles
+- meta descriptions
+- Open Graph
+- favicon
+- schema básico si aplica
+- velocidad optimizada
+- mobile optimization
+- Core Web Vitals buenos
+
+---
+
+### Keywords principales
+
+Relacionadas a:
+
+- encuadernación artesanal
+- cursos de encuadernación
+- cuadernos artesanales
+- talleres de encuadernación
+- cursos online de encuadernación
+
+---
+
+# Migración desde Jimdo
+
+Esto debe hacerse con mucho cuidado.
+
+## Reglas importantes
+
+### NO cancelar Jimdo primero
+
+Primero:
+
+- nueva web funcionando
+- dominio apuntando correctamente
+- todo validado
+
+Después:
+
+- cancelar Jimdo
+
+Nunca al revés.
+
+---
+
+## Revisar dominio
+
+Validar:
+
+### Jimdo administra:
+
+- dominio
+
+o
+
+### Jimdo solo administra:
+
+- hosting
+
+Esto cambia totalmente la estrategia.
+
+---
+
+## Revisar DNS
+
+Será necesario cambiar:
+
+- A records
+- CNAME
+- posiblemente nameservers
+
+Solo cuando la nueva web esté lista.
+
+---
+
+# Deploy
+
+## Fase 1
+
+Publicar primero en Vercel con dominio temporal
+
+Ejemplo:
+
+siiraskka-redesign.vercel.app
+
+Esto sirve para:
+
+- pruebas
+- revisión
+- aprobación
+- mobile testing
+
+---
+
+## Fase 2
+
+Conectar dominio real
+
+www.siiraskka.com
+
+Solo después de validar todo.
+
+---
+
+# Google Search Console
+
+Debe incluir:
+
+- verificación del dominio
+- envío de sitemap.xml
+- revisión de indexación
+- errores de cobertura
+- validación de rastreo
+
+Queremos confirmar que Google indexe correctamente la nueva web.
+
+---
+
+# Requisitos técnicos
+
+Debe cumplir:
+
+- Responsive real
+- Excelente experiencia móvil
+- Buena velocidad
+- Imágenes optimizadas
+- Lazy loading si aplica
+- Accesibilidad básica
+- HTML semántico
+- Formularios claros
+- Botón de WhatsApp visible
+- CTA claros
+- SEO-friendly structure
+
+---
+
+# Entregables esperados
+
+Necesitamos:
+
+## Arquitectura del proyecto
+
+## Lista de páginas
+
+## Componentes principales
+
+## Estructura de carpetas
+
+## Plan de migración SEO
+
+## Mapa de URLs antiguas → nuevas
+
+## Checklist antes de cambiar dominio
+
+## Configuración recomendada para Vercel
+
+## Recomendaciones visuales de diseño
+
+## Recomendaciones de UX
+
+## Roadmap de implementación
+
+---
+
+# Resultado esperado
+
+Una web mucho más profesional, premium, escalable y preparada para crecer, sin perder el posicionamiento actual en Google.
