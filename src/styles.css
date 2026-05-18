@@ -89,8 +89,8 @@ main {
 h1,
 h2,
 h3 {
-  font-family: "Fraunces", serif;
-  letter-spacing: -0.03em;
+  font-family: "Cormorant Garamond", serif;
+  letter-spacing: -0.02em;
 }
 
 .brand small {
@@ -106,7 +106,7 @@ h3 {
   color: #fff8f0;
   background: linear-gradient(140deg, var(--accent), #7a4521);
   box-shadow: var(--shadow);
-  font-family: "Fraunces", serif;
+  font-family: "Cormorant Garamond", serif;
   font-size: 1.2rem;
 }
 
@@ -332,7 +332,7 @@ h3 {
 }
 
 .hero-card strong {
-  font-family: "Fraunces", serif;
+  font-family: "Cormorant Garamond", serif;
   font-size: 1.25rem;
   line-height: 1.1;
 }
@@ -551,8 +551,10 @@ h3 {
 }
 
 .list-row {
-  display: flex;
-  gap: 0.85rem;
+  display: grid;
+  grid-template-columns: 0.9rem minmax(0, 1fr);
+  align-items: start;
+  column-gap: 0.85rem;
   padding: 1rem 0;
   border-bottom: 1px solid var(--line);
 }
@@ -562,9 +564,9 @@ h3 {
 }
 
 .list-row span {
-  flex: 0 0 0.9rem;
+  width: 0.9rem;
   height: 0.9rem;
-  margin-top: 0.35rem;
+  margin-top: 0.45rem;
   border-radius: 50%;
   background: linear-gradient(140deg, var(--accent), #d79b5f);
 }

@@ -24,7 +24,7 @@
         </p>
         <a
           class="button button-dark"
-          href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20sobre%20curso"
+          href="mailto:siiraskka.arteypapel@gmail.com?subject=Consulta%20sobre%20curso"
         >
           Consultar este curso
         </a>

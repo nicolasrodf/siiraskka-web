@@ -26,7 +26,7 @@
       </div>
       <a
         class="button button-dark"
-        href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20sobre%20talleres"
+        href="mailto:siiraskka.arteypapel@gmail.com?subject=Consulta%20sobre%20talleres"
       >
         Consultar talleres
       </a>

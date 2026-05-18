@@ -25,7 +25,7 @@
       </div>
       <a
         class="button button-dark"
-        href="mailto:siiraskka.atteypapel@gmail.com?subject=Solicitud%20de%20cotizacion"
+        href="mailto:siiraskka.arteypapel@gmail.com?subject=Solicitud%20de%20cotizacion"
       >
         Solicitar cotizacion
       </a>

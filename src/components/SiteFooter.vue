@@ -15,9 +15,9 @@
 
       <div>
         <p class="footer-label">Contacto</p>
-        <a href="mailto:siiraskka.atteypapel@gmail.com">siiraskka.atteypapel@gmail.com</a>
+        <a href="mailto:siiraskka.arteypapel@gmail.com">siiraskka.arteypapel@gmail.com</a>
         <a href="https://www.instagram.com/siiraskka/">Instagram</a>
-        <a href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20Siiraskka">Enviar correo</a>
+        <a href="mailto:siiraskka.arteypapel@gmail.com?subject=Consulta%20Siiraskka">Enviar correo</a>
       </div>
     </div>
     <div class="container footer-bottom">

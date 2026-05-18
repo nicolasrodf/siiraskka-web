@@ -35,7 +35,7 @@
         </p>
         <a
           class="button button-outline"
-          href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20Siiraskka"
+          href="mailto:siiraskka.arteypapel@gmail.com?subject=Consulta%20Siiraskka"
         >
           Enviar correo
         </a>

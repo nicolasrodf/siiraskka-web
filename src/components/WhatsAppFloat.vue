@@ -1,7 +1,7 @@
 <template>
   <a
     class="whatsapp-float"
-    href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20Siiraskka"
+    href="mailto:siiraskka.arteypapel@gmail.com?subject=Consulta%20Siiraskka"
     aria-label="Escribir por correo a Siiraskka"
   >
     <span>Correo</span>

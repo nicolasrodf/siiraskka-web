@@ -15,7 +15,7 @@
             <RouterLink class="button button-light" to="/cursos-online">Ver cursos</RouterLink>
             <a
               class="button button-outline"
-              href="mailto:siiraskka.atteypapel@gmail.com?subject=Pedido%20personalizado"
+              href="mailto:siiraskka.arteypapel@gmail.com?subject=Pedido%20personalizado"
             >
               Pedido personalizado
             </a>

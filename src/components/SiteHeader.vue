@@ -30,7 +30,7 @@
 
       <a
         class="button button-dark button-compact"
-        href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20Siiraskka"
+        href="mailto:siiraskka.arteypapel@gmail.com?subject=Consulta%20Siiraskka"
       >
         Correo
       </a>
