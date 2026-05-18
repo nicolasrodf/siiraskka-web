@@ -13,7 +13,12 @@
           <div class="button-row">
             <RouterLink class="button button-dark" to="/nuestros-productos">Ver productos</RouterLink>
             <RouterLink class="button button-light" to="/cursos-online">Ver cursos</RouterLink>
-            <a class="button button-outline" href="https://wa.me/51999999999">Pedido personalizado</a>
+            <a
+              class="button button-outline"
+              href="mailto:siiraskka.atteypapel@gmail.com?subject=Pedido%20personalizado"
+            >
+              Pedido personalizado
+            </a>
           </div>
           <div class="hero-metrics">
             <div>

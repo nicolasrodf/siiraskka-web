@@ -4,8 +4,8 @@
       <p class="eyebrow">Contacto</p>
       <h1>Conversemos sobre tu pedido, tu aprendizaje o la proxima experiencia Siiraskka.</h1>
       <p>
-        Para esta base propongo priorizar WhatsApp como CTA principal y dejar el formulario listo
-        para integracion posterior con correo o automatizacion.
+        El correo pasa a ser el canal principal de contacto y el formulario queda listo para una
+        integracion posterior.
       </p>
     </div>
 
@@ -28,12 +28,17 @@
 
       <div class="info-panel">
         <p class="eyebrow">Canales directos</p>
-        <h2>La venta asistida por WhatsApp debe ser protagonista.</h2>
+        <h2>El correo directo centraliza pedidos, cursos y consultas.</h2>
         <p>
-          Recomiendo conectar aqui el numero real, respuestas rapidas y etiquetas para separar
-          cursos, pedidos personalizados y talleres.
+          Usa este correo para pedidos personalizados, cursos online, talleres y coordinaciones
+          generales.
         </p>
-        <a class="button button-outline" href="https://wa.me/51999999999">Abrir WhatsApp</a>
+        <a
+          class="button button-outline"
+          href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20Siiraskka"
+        >
+          Enviar correo
+        </a>
       </div>
     </div>
   </section>

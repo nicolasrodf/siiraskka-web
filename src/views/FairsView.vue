@@ -15,7 +15,7 @@
         <h2>Espacio para calendario de ferias y colaboraciones.</h2>
         <p>
           La pagina antigua menciona eventos puntuales en Miraflores. Recomiendo convertir esto en
-          un bloque facil de actualizar con fecha, lugar y CTA a Instagram o WhatsApp.
+          un bloque facil de actualizar con fecha, lugar y CTA a Instagram o correo.
         </p>
       </div>
 

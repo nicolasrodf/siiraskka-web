@@ -23,7 +23,12 @@
         <p class="eyebrow">Pedido personalizado</p>
         <h2>Cuadernos, cartonaje y piezas de marca desarrolladas a medida.</h2>
       </div>
-      <a class="button button-dark" href="https://wa.me/51999999999">Solicitar cotizacion</a>
+      <a
+        class="button button-dark"
+        href="mailto:siiraskka.atteypapel@gmail.com?subject=Solicitud%20de%20cotizacion"
+      >
+        Solicitar cotizacion
+      </a>
     </div>
   </section>
 </template>

@@ -28,8 +28,11 @@
         Menu
       </button>
 
-      <a class="button button-dark button-compact" href="https://wa.me/51999999999">
-        WhatsApp
+      <a
+        class="button button-dark button-compact"
+        href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20Siiraskka"
+      >
+        Correo
       </a>
     </div>
 

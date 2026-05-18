@@ -22,7 +22,12 @@
           Esta pagina funciona como destino comercial individual para la migracion desde Jimdo.
           Luego se puede enriquecer con galeria real, checkout o botones de pago.
         </p>
-        <a class="button button-dark" href="https://wa.me/51999999999">Consultar este curso</a>
+        <a
+          class="button button-dark"
+          href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20sobre%20curso"
+        >
+          Consultar este curso
+        </a>
       </div>
     </div>
   </section>

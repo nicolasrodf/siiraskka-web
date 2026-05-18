@@ -24,7 +24,12 @@
         <p class="eyebrow">Reserva o consulta</p>
         <h2>Escribe para conocer fechas, formatos y proyectos disponibles.</h2>
       </div>
-      <a class="button button-dark" href="https://wa.me/51999999999">Quiero mi cupo</a>
+      <a
+        class="button button-dark"
+        href="mailto:siiraskka.atteypapel@gmail.com?subject=Consulta%20sobre%20talleres"
+      >
+        Consultar talleres
+      </a>
     </div>
   </section>
 </template>
