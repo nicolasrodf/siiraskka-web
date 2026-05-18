@@ -83,7 +83,6 @@
               <h3>{{ course.title }}</h3>
               <p>{{ course.description }}</p>
             </div>
-            <strong>{{ course.price }}</strong>
           </article>
         </div>
       </div>

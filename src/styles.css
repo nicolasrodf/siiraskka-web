@@ -566,9 +566,13 @@ h3 {
 .list-row span {
   width: 0.9rem;
   height: 0.9rem;
-  margin-top: 0.45rem;
+  margin-top: 0.25rem;
   border-radius: 50%;
   background: linear-gradient(140deg, var(--accent), #d79b5f);
+}
+
+.list-row p {
+  margin: 0;
 }
 
 .contact-form {
